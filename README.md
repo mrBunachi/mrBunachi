@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Nguyen Khong Duy Hoang
-- 👀 I’m interested in math
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on software
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-mrBunachi/mrBunachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Nguyen Khong Duy Hoang (@mrBunachi)
+- 👀 I’m interested in Big Data Engineering, DevOps/Cloud Infrastructure, and AI-IoT applications.
+- 🌱 I’m currently working with distributed systems (Kafka, Spark, K3s, MinIO) and Computer Vision (YOLOv8, ESP8266/STM32).
+- 💞️ I’m looking to collaborate on scalable data pipelines and embedded machine learning projects.
+- 📫 How to reach me: hoangtsugumi194@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I balance configuring Linux servers with weight training and writing Han-Viet poetry.
